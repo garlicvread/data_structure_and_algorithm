@@ -2,7 +2,7 @@
 An array that has several zeros and positive integers.
 Move the zeros to the right end of the array, and keep the order of positive integers steady.
 e.g.) Where the inputted array is [0, 8, 0, 37, 4, 5, 0, 50, 0, 34, 0, 0],
-      then the returned array must be [8, 37, 4, 5, 50, 34, 0, 0, 0, 0, 0, 0]
+      then the returned array must be [8, 37, 4, 5, 50, 34, 0, 0, 0, 0, 0, 0].
 
 note: Keep the solution has space-complexity of O(1).
 """
