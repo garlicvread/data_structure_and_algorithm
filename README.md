@@ -12,3 +12,4 @@
 7. [remove duplicate numbers](https://github.com/garlicvread/data_structure_ex/blob/main/007.remove_duplicate_numbers.py)
 8. [move zeros to the right end of the array](https://github.com/garlicvread/data_structure_ex/blob/main/008.move_zeros_to_the_end.py)
 9. [rotating an array](https://github.com/garlicvread/data_structure_ex/blob/main/009.rotating_an_array.py)
+10. [check if the two given strings are anagram of each other](https://github.com/garlicvread/data_structure_ex/blob/main/010.check_if_anagrams.py)
