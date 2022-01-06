@@ -7,7 +7,7 @@
 2. [maximum difference between two numbers](https://github.com/garlicvread/data_structure_ex/blob/main/002.maximum_diff_btw_two_numbers.py)
 3. [object handling](https://github.com/garlicvread/data_structure_ex/blob/main/003.object_handling.py)
 4. [finding the duplicate number](https://github.com/garlicvread/data_structure_ex/blob/main/004.finding_duplicate_number.py)
-5. [finding the maximum subarray](https://github.com/garlicvread/data_structure_ex/blob/main/005.maximum_subarray.py)
+5. [finding the maximum subarray](https://github.com/garlicvread/data_structure_ex/blob/main/005.finding_maximum_subarray.py)
 6. [make value of 1](https://github.com/garlicvread/data_structure_ex/blob/main/006.make_value_of_1.py)
 7. [remove the duplicate numbers](https://github.com/garlicvread/data_structure_ex/blob/main/007.remove_duplicate_numbers.py)
 8. [move zeros to the right end of the array](https://github.com/garlicvread/data_structure_ex/blob/main/008.move_zeros_to_the_end.py)
