@@ -14,5 +14,5 @@
 9. [rotating an array](https://github.com/garlicvread/data_structure_ex/blob/main/009.rotating_an_array.py)
 10. [check if the two given strings are anagram of each other](https://github.com/garlicvread/data_structure_ex/blob/main/010.check_if_anagrams.py)
 11. [finding different character](https://github.com/garlicvread/data_structure_ex/blob/main/011.finding_different_character.py)
-12. [finding third largest number](https://github.com/garlicvread/data_structure_ex/blob/main/012.finding_third_max_value.py)
-13. [finding kth largest number](https://github.com/garlicvread/data_structure_ex/blob/main/013.finding_kth_maximum_value.py)
+12. [finding third-largest number](https://github.com/garlicvread/data_structure_ex/blob/main/012.finding_third_max_value.py)
+13. [finding kth-largest number](https://github.com/garlicvread/data_structure_ex/blob/main/013.finding_kth_maximum_value.py)
