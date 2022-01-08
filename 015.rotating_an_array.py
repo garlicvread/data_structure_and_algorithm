@@ -55,11 +55,8 @@ def circular_array_rotation(a, k, queries):
     for i in range(k):
         temp.append(temp.pop())
 
-    print("temp: ", temp)
-
     for i in queries:
         answer.append(temp[i])
-        # print(answer)
 
     return answer
 
