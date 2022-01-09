@@ -17,10 +17,15 @@ e.g.) 'abab', ['strawberry', 'blueberry', 'strawberry', 'blueberry'] --> True
 Note that every character is in lower case.
 """
 
+# Solution 1
 
 def wordPattern(pattern, strList):
     number_of_patterns = len(set(pattern))
     # print(number_of_patterns)
+
+    # # The most important part to detect the word patterns.
+    # print("1: ", zip(pattern, strList))
+    # print("2: ", set(zip(pattern, strList)))
 
     patterns_set = len(set(zip(pattern, strList)))
 
@@ -29,6 +34,14 @@ def wordPattern(pattern, strList):
             return False
         else:
             return True
+
+
+"""
+# Solution 2: a simplified version of the above code
+
+def wordPattern(pattern, strList):
+      return len(set(pattern)) == len(set(zip(pattern, strList)))
+"""
 
 
 def main():
