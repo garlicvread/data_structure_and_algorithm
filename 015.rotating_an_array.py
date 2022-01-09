@@ -1,3 +1,5 @@
+# HackerRank, Circular Array Rotation - https://www.hackerrank.com/challenges/circular-array-rotation/problem?isFullScreen=true
+
 import math
 import os
 import random
@@ -53,11 +55,8 @@ def circular_array_rotation(a, k, queries):
     for i in range(k):
         temp.append(temp.pop())
 
-    print("temp: ", temp)
-
     for i in queries:
         answer.append(temp[i])
-        # print(answer)
 
     return answer
 

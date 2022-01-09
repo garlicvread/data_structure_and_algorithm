@@ -16,3 +16,5 @@
 11. [finding different character](https://github.com/garlicvread/data_structure_ex/blob/main/011.finding_different_character.py)
 12. [finding third-largest number](https://github.com/garlicvread/data_structure_ex/blob/main/012.finding_third_max_value.py)
 13. [finding kth-largest number](https://github.com/garlicvread/data_structure_ex/blob/main/013.finding_kth_maximum_value.py)
+14. [detecting words patterns](https://github.com/garlicvread/data_structure_ex/blob/main/014.detecting_words_patterns.py)
+15. [rotating an array](https://github.com/garlicvread/data_structure_ex/blob/main/015.rotating_an_array.py)
