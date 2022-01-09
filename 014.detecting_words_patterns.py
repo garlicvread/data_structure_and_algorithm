@@ -17,19 +17,18 @@ e.g.) 'abab', ['strawberry', 'blueberry', 'strawberry', 'blueberry'] --> True
 Note that every character is in lower case.
 """
 
-import re
 
 def wordPattern(pattern, strList):
     number_of_patterns = len(set(pattern))
     # print(number_of_patterns)
 
-    patterns = {}
+    patterns_set = len(set(zip(pattern, strList)))
 
-    for i in range(0, len(pattern) - 1, 1):
-        if strList[i] = strList[i+1]:
-            patterns
-
-    return True
+    for i in range(len(pattern)):
+        if patterns_set != number_of_patterns:
+            return False
+        else:
+            return True
 
 
 def main():
