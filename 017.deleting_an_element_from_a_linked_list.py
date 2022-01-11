@@ -89,7 +89,7 @@ def deleteNode(ll, valToDelete):
     you can delete the head node by designating the second node as the head node.
     """
 
-    if ll.head.val == valToDelete:
+    if ll.head.val == valToDelete:  # ll.head == valToDelete (X)  ll.head.val == valToDelete (O)
         ll.head = ll.head.next
 
     current_node = ll.head
