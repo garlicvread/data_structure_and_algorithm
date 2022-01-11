@@ -8,10 +8,13 @@ and another class "toLinkedList" that returns vice versa.
 """
 
 
-# 'Node' class for a linked list.
-# This code is for a singly linked list.
-
 class Node:
+    """
+    The 'Node' class for a linked list.
+    This class is for a singly linked list.
+
+    NOTE: You do not need to modify this class.
+    """
     def __init__(self, val):
         self.val = val
         self.next = None
