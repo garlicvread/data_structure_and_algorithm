@@ -21,3 +21,4 @@
 16. [transition between a linked list and an array](https://github.com/garlicvread/coding_test_prep/blob/main/016.transition_btw_a_linked_list_and_an_array.py)
 17. [deleting an element from  linked list](https://github.com/garlicvread/coding_test_prep/blob/main/017.deleting_an_element_from_a_linked_list.py)
 18. [caculating the average of the streaming data](https://github.com/garlicvread/data_structure/blob/main/018.average_of_streaming_data.py)
+19. [matching parenthesis (brackets)](https://github.com/garlicvread/data_structure/blob/main/019.matching_parenthesis(brackets).py)
