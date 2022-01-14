@@ -22,3 +22,4 @@
 17. [deleting an element from  linked list](https://github.com/garlicvread/coding_test_prep/blob/main/017.deleting_an_element_from_a_linked_list.py)
 18. [caculating the average of the streaming data](https://github.com/garlicvread/data_structure/blob/main/018.average_of_streaming_data.py)
 19. [matching parenthesis (brackets)](https://github.com/garlicvread/data_structure/blob/main/019.matching_parenthesis(brackets).py)
+20. [Josephs permutation](https://github.com/garlicvread/data_structure_and_algorithm/blob/main/020.josephus_permutation.py)
